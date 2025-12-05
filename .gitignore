@@ -1,0 +1,8 @@
+# Protect Secrets
+.env
+
+# Protect Data and environment
+data/
+__pycache__/
+*.pyc
+.venv/

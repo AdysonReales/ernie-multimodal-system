@@ -1,0 +1,6 @@
+# Core Libraries
+paddlepaddle-gpu # or paddlepaddle if no GPU
+paddleocr[doc-parser] # For PDF/Layout analysis
+openai # For connecting to the ERNIE/Qianfan API (it's OpenAI-compatible)
+python-dotenv # To load secrets securely
+streamlit # For the web demo
